@@ -1,5 +1,4 @@
-Taehan Lee
-
+Welcome!
 
 I'm interested in reducing inference time or memory usage of DNNs and looking for interesting findings through experiments.
 
