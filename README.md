@@ -1,7 +1,6 @@
 Welcome!
 
-I'm interested in reducing inference time or memory usage of DNNs and looking for interesting findings through experiments.
-
+I'm interested in reducing inference time and memory usage in DNN applications, and I'm exploring interesting insights through experiments.
 <!--
 **andylee-24/andylee-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
