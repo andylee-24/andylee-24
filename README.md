@@ -1,4 +1,7 @@
-## Hi there 👋
+Taehan Lee
+
+
+I'm interested in reducing inference time or memory usage of DNNs and looking for interesting findings through experiments.
 
 <!--
 **andylee-24/andylee-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
